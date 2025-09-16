@@ -1,2 +1,1 @@
-# Online-Banquit-Management-System
-i developed this project website using Javascript , Php. 
+# Disease-Prediction-from-Symptoms
